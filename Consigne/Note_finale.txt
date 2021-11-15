@@ -1,0 +1,12 @@
+​# BAREME :
+# COMMENTAIRES : case spéciale 1 pt : 0
+#                                 boucle principale qui crée les lemmings 0.5 pt :0
+#                                des mouvements des lemmings 0.5 pt :0
+# CREATION/DESIGN MAP 3 pts : 2.5 Parcours assez linéaire
+# PERSO GAUCHE/ DROITE 1 pt : 1
+# SORTIE DE TOUS LES LEMMINGS SANS BOUCLE INFINIE 2 pts : 2
+# CASE ET ACTION SPECIALE 3 pts : 3
+# PERSONNALISATION 5 pts : 4
+# RESPECT DES CONSIGNES POUR LES MOUVEMENTS 2 pts : 2
+# DEBUGAGE EFFECTUE 2 pts : 2
+# TOTAL 20 pts : 16.5/20
