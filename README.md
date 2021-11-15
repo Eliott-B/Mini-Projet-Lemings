@@ -31,4 +31,4 @@ Sinon :
 3) Dans le main, créer une boucle qui va mettre en jeu un certains nombre de lemmings puis les déplacer. Cette boucle s’arrête quand il ne reste plus de lemmings en jeu.
 Cette boucle finira par « Mafenetre.update() » afin de mettre à jour sur l’écran tous les changements.
 4) Créer au moins une case spéciale qui fera une action spéciale (passage secret, ouverture de porte, changement de couleur, retour au départ, etc ….)
-
+ 
